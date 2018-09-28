@@ -68,4 +68,4 @@ There are many ways to do this, here's the way I do it:
     import Boilerplate from 'react-native-android-library-boilerplate'
     Boilerplate.show('Boilerplate runs fine', Boilerplate.LONG)
     ```
-5. You can test and develop your library by importing the `node_modules` library into **Android Studio** if you don't want to install it from _git_ all the time.
+5. You can test and develop your library by importing the `node_modules` library into **Android Studio** if you don't want to install it from _git_ all the time."# RNAndroidMidi" 
