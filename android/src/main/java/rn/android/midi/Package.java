@@ -1,4 +1,4 @@
-package io.cmichel.boilerplate;
+package rn.android.midi;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;
@@ -27,7 +27,7 @@ public class Package implements ReactPackage {
             ReactApplicationContext reactContext) {
         List<NativeModule> modules = new ArrayList<>();
 
-        modules.add(new Module(reactContext));
+        modules.add(new RNAndroidMidi(reactContext));
 
         return modules;
     }

@@ -1,7 +1,7 @@
 {
-  "name": "react-native-android-library-boilerplate",
+  "name": "rn-android-midi",
   "version": "0.0.1",
-  "author": "Christoph Michel http://cmichel.io",
+  "author": "KW",
   "private": false,
   "license": "Unlicense",
   "repository": {
